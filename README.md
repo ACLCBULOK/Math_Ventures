@@ -1,1 +1,1 @@
-# Math_Ventures
+# MathVentures
